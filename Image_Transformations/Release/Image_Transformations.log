@@ -1,0 +1,25 @@
+﻿  image.cpp
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\image_transformations\image_transformations\image.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\image_transformations\image_transformations\image.cpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\image_transformations\image_transformations\image.cpp(42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\image_transformations\image_transformations\image.cpp(56): warning C4018: '<': signed/unsigned mismatch
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\image_transformations\image_transformations\image.cpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\image_transformations\image_transformations\image.cpp(59): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\image_transformations\image_transformations\image.cpp(60): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\image_transformations\image_transformations\image.cpp(61): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\image_transformations\image_transformations\image.cpp(62): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\image_transformations\image_transformations\image.cpp(76): warning C4018: '<': signed/unsigned mismatch
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\image_transformations\image_transformations\image.cpp(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\image_transformations\image_transformations\image.cpp(79): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\image_transformations\image_transformations\image.cpp(80): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\image_transformations\image_transformations\image.cpp(81): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\image_transformations\image_transformations\image.cpp(82): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\image_transformations\image_transformations\updates.h(21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\image_transformations\image_transformations\updates.h(62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\image_transformations\image_transformations\updates.h(67): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\image_transformations\image_transformations\main.cpp(49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  All 191 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Image_Transformations.vcxproj -> C:\Users\arkad\Documents\DEADSHOT FILES\C++ Programs\SFML\TESTS\Image_Transformations\Release\Image_Transformations.exe

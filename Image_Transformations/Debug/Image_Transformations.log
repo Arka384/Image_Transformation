@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\image_transformations\image_transformations\updates.h(21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\image_transformations\image_transformations\updates.h(62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\image_transformations\image_transformations\updates.h(67): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\image_transformations\image_transformations\main.cpp(49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Image_Transformations.vcxproj -> C:\Users\arkad\Documents\DEADSHOT FILES\C++ Programs\SFML\TESTS\Image_Transformations\Debug\Image_Transformations.exe
